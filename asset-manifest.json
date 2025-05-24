@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/guzt4l1/wedding.git/static/css/main.f855e6bc.css",
+    "main.js": "/guzt4l1/wedding.git/static/js/main.88e8de57.js",
+    "static/js/453.7e3e3be8.chunk.js": "/guzt4l1/wedding.git/static/js/453.7e3e3be8.chunk.js",
+    "static/media/logo.svg": "/guzt4l1/wedding.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/guzt4l1/wedding.git/index.html",
+    "main.f855e6bc.css.map": "/guzt4l1/wedding.git/static/css/main.f855e6bc.css.map",
+    "main.88e8de57.js.map": "/guzt4l1/wedding.git/static/js/main.88e8de57.js.map",
+    "453.7e3e3be8.chunk.js.map": "/guzt4l1/wedding.git/static/js/453.7e3e3be8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.88e8de57.js"
+  ]
+}
